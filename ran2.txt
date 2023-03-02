@@ -1,0 +1,5 @@
+====================>Game_RAN_SAN_MOI_<===============
+
+====================> Huong Dan <=====================
+Di chuyen ran bang cac mui ten an cac dong tien sao cho 
+khong cham bien va cham vao chinh minh de dat diem cao nhat.
